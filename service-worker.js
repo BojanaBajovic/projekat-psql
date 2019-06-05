@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/projekat-psql/precache-manifest.16cc42bdad1706e8105b53fa83bec21c.js"
+  "/projekat-psql/precache-manifest.192bd17f8a3e110451124f3961f8f694.js"
 );
 
 self.addEventListener('message', (event) => {

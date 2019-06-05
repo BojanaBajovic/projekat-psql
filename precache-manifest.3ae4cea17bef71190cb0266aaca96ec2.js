@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3e657ff1b1f82e2eba081b365854d431",
+    "revision": "e6418745b6a6f1acc0acddd56b4c2abf",
     "url": "/projekat-psql/index.html"
   },
   {
-    "revision": "39e6a1c70f0fe49f78e5",
+    "revision": "51a8d410eae935baa7a3",
     "url": "/projekat-psql/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/projekat-psql/static/js/2.b41502e9.chunk.js"
   },
   {
-    "revision": "39e6a1c70f0fe49f78e5",
-    "url": "/projekat-psql/static/js/main.09bc19a3.chunk.js"
+    "revision": "51a8d410eae935baa7a3",
+    "url": "/projekat-psql/static/js/main.4d01b4ab.chunk.js"
   },
   {
     "revision": "659f87f0d531c78437a5",
